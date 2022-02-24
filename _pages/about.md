@@ -1,4 +1,3 @@
-![alt text](https://github.com/gyf135/gyf135.github.io/images/library.JPG?raw=False)
 <br/><img src='/images/library.JPG'>
 ---
 permalink: /
