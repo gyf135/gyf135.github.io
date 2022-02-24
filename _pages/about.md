@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In Suzzallo Library of University of Washington 
+In Suzzallo Library, University of Washington 
 <br/><img src='/images/library.JPG'>
 
 
