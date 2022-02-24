@@ -1,4 +1,4 @@
-<br/><img src='/images/library.JPG'>
+excerpt: "In Suzzallo Library of University of Washington <br/><img src='/images/library.JPG'>"
 
 ---
 permalink: /
