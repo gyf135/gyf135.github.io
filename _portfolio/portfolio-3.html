@@ -13,7 +13,7 @@ collection: portfolio
 \[
 \frac{\partial \omega}{\partial t} + \mathcal{N}(\omega,\psi)=\nu\nabla^2\omega - \frac{\partial\theta}{\partial x},
 \qquad \qquad
-\nabla^2\psi = -\omega.
+\nabla^2\psi = -\omega,
 \]
 <br>
 \[
@@ -28,8 +28,8 @@ collection: portfolio
 <br>
 \[
 u_x = \frac{\partial \psi}{\partial y},
-\qquad\qquad
-u_y = -\frac{\partial \psi}{\partial x}.
+\qquad
+u_y = -\frac{\partial \psi}{\partial x},
 \]
 
 <br> Filtering $\overline{(\cdot)}$ the DNS equations gives the large eddy simulation (LES) equations:
@@ -40,8 +40,8 @@ u_y = -\frac{\partial \psi}{\partial x}.
 \nabla^2\overline{\psi} = -\overline{\omega}.
 \]
 \[
-\frac{\partial\overline{\theta}}{\partial t} + \mathbf{\overline{u}}\cdot\nabla\overline{\theta} - \overline{u_y}=k\nabla^2\overline{\theta} + \underbrace{\mathbf{\overline{u}}\cdot\nabla\overline{\theta} - \overline{\mathbf{u}\cdot\nabla\theta}}{\PI_\theta}.
+\frac{\partial\overline{\theta}}{\partial t} + \mathbf{\overline{u}}\cdot\nabla\overline{\theta} - \overline{u_y}=k\nabla^2\overline{\theta} + \underbrace{\mathbf{\overline{u}}\cdot\nabla\overline{\theta} - \overline{\mathbf{u}\cdot\nabla\theta}}_{\PI_\theta}.
 \]
-<br> In this work, we use two fully convolutional neural networks (CNN) with identical structure to model the closure term $\Pi_\omega$ and $\Pi_\theta$.
+<br> In this work, we use two fully convolutional neural networks (CNN) with identical structure to model the closure terms $\Pi_\omega$ and $\Pi_\theta$.
 <br/><img src='/images/CNN.png'>
 
