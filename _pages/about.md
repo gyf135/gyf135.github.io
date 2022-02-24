@@ -1,4 +1,4 @@
-![alt text](https://github.com/gyf135/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/gyf135/gyf135.github.io/images/library.JPG?raw=False)
 
 ---
 permalink: /
