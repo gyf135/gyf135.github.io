@@ -17,7 +17,7 @@ collection: portfolio
 \]
 <br>
 \[
-\frac{\partial\theta}{\partial t} + \mathbf{u}\cdot\nabla\theta - \u_y=k\nabla^2\theta.
+\frac{\partial\theta}{\partial t} + \mathbf{u}\cdot\nabla\theta - u_y=k\nabla^2\theta.
 \]
 <br>Here, $\mathcal{N}(\omega,\psi)$ represents the nonlinear advection term:
 <br>
@@ -27,21 +27,15 @@ collection: portfolio
 <br>and velocity vector $\mathbf{u}=(u_x,u_y)$, where
 <br>
 \[
-u_x = \frac{\psi}{\y},
+u_x = \frac{\partial \psi}{\partial y},
 \qquad\qquad
-uy = -\frac{\psi}{\x}.
+u_y = -\frac{\partial \psi}{\partial x}.
 \]
 
-
-<br>and $f$ represents a deterministic forcing:
-<br>
-\[
-f(x,y)= k_f[\cos{(k_fx)} + \cos{(k_fy)}].
-\]
 <br> Filtering $\overline{(\cdot)}$ the DNS equations gives the large eddy simulation (LES) equations:
 <br>
 \[
-\frac{\partial \overline{\omega}}{\partial t} + \mathcal{N}(\overline{\omega},\overline{\psi})=\frac{1}{Re}\nabla^2\overline{\omega}-\overline{f}-r\overline{\omega}+\underbrace{\mathcal{N}(\overline{\omega},\overline{\psi}) - \overline{\mathcal{N}({\omega},{\psi})}}_{\Pi},
+\frac{\partial \overline{\omega}}{\partial t} + \mathcal{N}(\overline{\omega},\overline{\psi})=\frac{1}{Re}\nabla^2\overline{\omega}-\frac{\partial\overline{\theta}}{\partial x}+\underbrace{\mathcal{N}(\overline{\omega},\overline{\psi}) - \overline{\mathcal{N}({\omega},{\psi})}}_{\Pi},
 \]
 <br>
 \[
