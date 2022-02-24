@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-excerpt: "In Suzzallo Library of University of Washington <br/><img src='/images/library.JPG'>"
+In Suzzallo Library of University of Washington 
+<br/><img src='/images/library.JPG'>
 
 
 This is Dr. Yifei Guan's home on the web!
