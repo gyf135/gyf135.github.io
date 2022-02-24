@@ -1,4 +1,7 @@
-excerpt: "In Suzzallo Library of University of Washington <br/><img src='/images/library.JPG'>"
+---
+title: "In Suzzallo Library of University of Washington"
+excerpt: "<br/><img src='/images/library.JPG'>"
+---
 
 ---
 permalink: /
