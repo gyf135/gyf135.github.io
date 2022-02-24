@@ -1,3 +1,5 @@
+![alt text](https://github.com/gyf135/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 ---
 permalink: /
 title: "About me"
