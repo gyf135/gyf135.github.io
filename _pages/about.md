@@ -1,9 +1,4 @@
 ---
-title: "In Suzzallo Library of University of Washington"
-excerpt: "<br/><img src='/images/library.JPG'>"
----
-
----
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -12,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+excerpt: "In Suzzallo Library of University of Washington <br/><img src='/images/library.JPG'>"
+
 
 This is Dr. Yifei Guan's home on the web!
 
