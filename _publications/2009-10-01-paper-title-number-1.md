@@ -6,7 +6,7 @@ excerpt: 'This paper is about learning physics-constrained subgrid-scale models 
 date: 2022-01-18
 venue: 'In review'
 paperurl: 'https://arxiv.org/abs/2201.07347'
-citation: 'Yifei Guan, Adam Subel, Ashesh Chattopadhyay, and Pedram Hassanzadeh. "Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES." arXiv preprint arXiv:2201.07347 (2022).'
+citation: '<strong>Yifei Guan</strong>, Adam Subel, Ashesh Chattopadhyay, and Pedram Hassanzadeh. "Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES." arXiv preprint arXiv:2201.07347 (2022).'
 ---
 This paper is about learning physics-constrained subgrid-scale models in the small-data regime.
 
