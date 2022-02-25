@@ -12,4 +12,4 @@ This paper is about learning physics-constrained subgrid-scale models in the sma
 
 [Download paper here](https://arxiv.org/abs/2201.07347)
 
-Recommended citation: <p>Yifei Guan</p>, Adam Subel, Ashesh Chattopadhyay, and Pedram Hassanzadeh. "Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES." arXiv preprint arXiv:2201.07347 (2022).
+Recommended citation: <strong>Yifei Guan</strong>, Adam Subel, Ashesh Chattopadhyay, and Pedram Hassanzadeh. "Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES." arXiv preprint arXiv:2201.07347 (2022).
