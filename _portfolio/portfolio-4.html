@@ -3,6 +3,49 @@ title: "Electro-thermo-convection"
 excerpt: "Charge density time evolution and symmetry breaking in an ETHD system<br/><img src='/images/charge in ETHD.png'>"
 collection: portfolio
 ---
+<br>The direct numerical simulation (DNS) solves the dimensionless governing equations in the velocity ($\mathbf{u} = (u_x,u_y)$), pressure ($p$), , charge density ($q$), electric potential ($\phi$), and temperature ($\theta$) formulation two-relaxation time lattice Boltzmann method:
+<br>
+\[
+\nabla\cdot\mathbf{u}=0,
+\]
+<br>
+\[
+\frac{\partial \mathbf{u}}{\partial t} + \mathbf{u}\cdot\nabla\mathbf{u}=-\nabla p+\frac{M^2}{T}\nabla^2\mathbf{u} + CM^2q\mathbf{E} + \frac{M^4Ra}{T^2Pr}\theta\mathbf{e}_z,
+\]
+<br>
+\[
+\frac{\partial q}{\partial t} + \nabla\cdot[(\mathbf{u}+\mathbf{E})q-\frac{\nabla q}{Fe}]=0,
+\]
+<br>
+\[
+\nabla^2\phi = -Cq,
+\]
+<br>
+\[
+\mathbf{E} = -\nabla\phi,
+\]
+<br>
+\[
+\frac{\partial\theta}{\partial t} + \mathbf{u}\cdot\nabla\theta=\frac{M^2}{TPr}\nabla^2\theta.
+\]
+<br>Here, the system is determined by the six dimenionless parameters plus initial/boundary conditions:
+\[
+T=\frac{\epsilon(\phi_1-\phi_0)}{\mu K}
+\qquad
+C=\frac{q_0H^2}{\epsilon(\phi_1-\phi_0)}
+\qquad
+M = \frac{(\epsilon/\rho_0)^{0.5}}{K}
+\qquad
+Fe = \frac{K(\phi_1-\phi_0)}{D}
+\qquad
+Ra = \frac{g\alpha(\theta_0-\theta_1)H^3}{k\nu}
+\qquad
+Pr = \frac{\nu}{k}
+\]
+
+
+
+
 <br>Periodic oscillation for inverse thermal gradient (T = 225, Ra = 977.6, Pr = M = C = 10, and Fe = 2000). 
 <br>
 <video width="250" height="750" controls>
