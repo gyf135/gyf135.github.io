@@ -15,11 +15,3 @@ The two-dimensional (2D) electro-convection (EC) flow of dielectric liquids betw
 
 Recommended citation: citation: Junyu Huang, Qi Wang, <strong>Yifei Guan</strong>, Zhonglin Du, R. Deepak Selvakumar, and Jian Wu. "Numerical investigation of instability and transition to chaos in electro-convection of dielectric liquids between concentric cylinders." Physics of Fluids 33, no. 4 (2021): 044112.
 
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Co
