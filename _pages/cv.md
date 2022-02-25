@@ -11,30 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mechanical Engineering, University of Washington, 2019
+* M.S  in Applied Mathematics, University of Washington, 2017
+* M.S  in Mechanical Engineering, University of Washington, 2016
+* B.S. in Thermal energy and power Engineering, Beijing Institute of Technology, 2014
+* Exchange student in Mechanical Engineering, University College Dublin, 2014
+* Exchange student in Mechanical Engineering, University of Technology, Sydney, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* From 2019: Postdoctoral research associate
+  * Rice University
+  * Duties included: Develop data-driven models for turbulence modeling.
+  * Supervisor: Professor Pedram Hassanzadeh
+* From 2022: Guest lecturer
+  * Rice University
+  * Duties included: Lecture on hydrodynamic stability
+  * Supervisor: Professor Pedram Hassanzadeh
+* 2015-2019: Research Assistant
+  * University of Washington
+  * Duties included: Develop computational fluid dynamics model for electrohydrodynamic flows; conduct experiments on corona discharge driven ionic wind.
+  * Supervisor: Professor Igor Novosselov
+* 2015-2016: Teaching Assistant
+  * University of Washington
+  * Duties included: Design projects, assignments, and tests; hold office hours.
+  * Supervisor: Professor Steve Brunton
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep learning
+  * Supervised learning using ANN and CNN
+  * Data-driven equation discovery/system identification
+  * transfer learning
+* Computational fluid dynamics
+  * High-performance computing using GPU
+  * Lattice Boltzmann method
+  * Spectral method
+  * Finite volume method
+  * ANSYS ICEM/FLUENT
+  * COMSOL
+* Scientific computing
+  * C++
+  * Python
+  * FORTRAN
+  * MATLAB
+  
 
 Publications
 ======
