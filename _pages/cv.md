@@ -26,7 +26,7 @@ Work experience
   * Supervisor: Professor Pedram Hassanzadeh
 * From 2022: Guest lecturer
   * Rice University
-  * Duties included: Lecture on hydrodynamic stability
+  * Duties included: Lecture on hydrodynamic stability.
   * Supervisor: Professor Pedram Hassanzadeh
 * 2015-2019: Research Assistant
   * University of Washington
@@ -42,11 +42,12 @@ Skills
 * Deep learning
   * Supervised learning using ANN and CNN
   * Data-driven equation discovery/system identification
-  * transfer learning
+  * Transfer learning
 * Computational fluid dynamics
   * High-performance computing using GPU
   * Lattice Boltzmann method
   * Spectral method
+  * Large-eddy simulation
   * Finite volume method
   * ANSYS ICEM/FLUENT
   * COMSOL
