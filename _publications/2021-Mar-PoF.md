@@ -2,7 +2,7 @@
 title: "Data-driven subgrid-scale modeling of forced Burgers turbulence using deep learning with generalization to higher Reynolds numbers via transfer learning"
 collection: publications
 permalink: /publication/2021-Mar-PoF
-excerpt: 'This paper is about data-driven subgrid-scale models for stochastic Burger's system.'
+excerpt: 'This paper is about data-driven subgrid-scale models for stochastic Burgers system.'
 date: 2021-03-01
 venue: 'Physics of Fluids'
 paperurl: 'https://aip.scitation.org/doi/full/10.1063/5.0040286?casa_token=x1HVmMLKYgIAAAAA%3AReh-h4EfbVpvAKEo05OfHMKkTbXbZa5hD9PQCzHUEY89BUCEgnQqdPbymShQ8yARnKPjZl1L6tz0qw'
