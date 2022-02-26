@@ -13,5 +13,3 @@ In Suzzallo Library, University of Washington
 
 
 This is Dr. Yifei Guan's home on the web!
-
-Lorem ipsum.
