@@ -3,7 +3,7 @@ title: "Numerical investigation of instability and transition to chaos in electr
 collection: publications
 permalink: /publication/2021-Apr-PoF
 excerpt: 'This paper is about route to chaos of a 2D electro-convection system between concentric cylinders.'
-date: 2021-04
+date: 2021-04-22
 venue: 'Physics of Fluids'
 paperurl: 'https://aip.scitation.org/doi/full/10.1063/5.0044147?casa_token=El--JftUj1kAAAAA%3ANC3Z14gTM5jTJvL2a64DEaLcqrnfAbHEvTTQdWk-JmqYunCq0i00hHMWT8CJ42T9vHk2SLP8wkkKRw'
 citation: 'Junyu Huang, Qi Wang, <strong>Yifei Guan</strong>, Zhonglin Du, R. Deepak Selvakumar, and Jian Wu. "Numerical investigation of instability and transition to chaos in electro-convection of dielectric liquids between concentric cylinders." Physics of Fluids 33, no. 4 (2021): 044112.'
