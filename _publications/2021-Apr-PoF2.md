@@ -13,6 +13,6 @@ Two commonly used discrete velocity models (the linear discrete velocity model (
 
 [Download paper here](https://aip.scitation.org/doi/full/10.1063/5.0042564?casa_token=kzoRWPF_GuYAAAAA%3AxnjL2HchHqypofP7MSFCjQK0DHg8EH0Kou6iXuKwtSJDXr-YfzouB6n-y7cCDm0NeqxLEYqGn-Ej4w)
 
-Recommended citation: citation: Baojie Zhu, <strong>Yifei Guan</strong>, and Jian Wu. "Two-relaxation time lattice Boltzmann models for the ion transport equation in electrohydrodynamic flow: D2Q5 vs D2Q9 and D3Q7 vs D3Q27." Physics of Fluids 33, no. 4 (2021): 044108.
+Recommended citation: Baojie Zhu, <strong>Yifei Guan</strong>, and Jian Wu. "Two-relaxation time lattice Boltzmann models for the ion transport equation in electrohydrodynamic flow: D2Q5 vs D2Q9 and D3Q7 vs D3Q27." Physics of Fluids 33, no. 4 (2021): 044108.
 
 
