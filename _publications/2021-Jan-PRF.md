@@ -1,7 +1,7 @@
 ---
 title: "Monotonic instability and overstability in two-dimensional electrothermohydrodynamic flow"
 collection: publications
-permalink: /publication/2021-PRF
+permalink: /publication/2021-Jan-PRF
 excerpt: 'This paper is about electro-thermo-convection with inverse thermal gradient.'
 date: 2021-01
 venue: 'Physical Review Fluids'
