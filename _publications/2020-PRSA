@@ -1,0 +1,17 @@
+---
+title: "Numerical Analysis of Electrohydrodynamic flows of a dielectric liquid in a wire-plate configuration with cross Poiseuille flow"
+collection: publications
+permalink: /publication/2020-PRSA
+excerpt: 'This paper is about analytical model of electrohydronamic thrust.'
+date: 2020-09-30
+venue: 'Proceedings of the Royal Society A'
+paperurl: 'https://doi.org/10.1098/rspa.2020.0220'
+citation: 'Ravi Sankar Vaddi, <strong>Yifei Guan</strong>, Alexander Mamishev, and Igor Novosselov. "Analytical model for electrohydrodynamic thrust." Proceedings of the Royal Society A 476, no. 2241 (2020): 20200220.'
+---
+
+A numerical investigation of electrohydrodynamic flows of a dielectric liquid in a single wire–plate configuration with a cross Poiseuille flow has been presented. Unipolar charge injection takes place from a metallic wire electrode immersed in a dielectric liquid at the center of the channel. Although this configuration is frequently studied with gas as a working fluid in electrostatic precipitators, the flow of a dielectric liquid remains unexplored. Two-way coupled governing equations that include the Navier–Stokes equations for fluid flow, the charge transport equation, and the Poisson equation for electric potential are solved using a finite-volume method. A systematic analysis of flow characteristics with respect to the hydrodynamic Reynolds number (Re) and electric Reynolds number (RE) has been carried out. The transition process with four distinct flow patterns and two different flow mechanisms are discussed in detail. A comprehensive map of flow patterns with respect to various dimensionless parameters has been proposed. The results show that a higher Re can reduce the effect of electric field, and vice versa. The main flow pattern is found to be a strong function of the dimensionless external velocity.
+
+[Download paper here](https://doi.org/10.1098/rspa.2020.0220)
+
+Recommended citation: Ravi Sankar Vaddi, <strong>Yifei Guan</strong>, Alexander Mamishev, and Igor Novosselov. "Analytical model for electrohydrodynamic thrust." Proceedings of the Royal Society A 476, no. 2241 (2020): 20200220.
+
