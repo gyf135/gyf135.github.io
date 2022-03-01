@@ -1,0 +1,13 @@
+---
+title: "Numerical analysis of 2D and 3D electrohydrodynamic convection instability with crossflow"
+collection: talks
+type: "Tutorial"
+permalink: /talks/2019-11-APS
+venue: "American Physical Society"
+date: 2019-11-24
+location: "Seattle WA, USA"
+---
+
+[More information here](https://ui.adsabs.harvard.edu/abs/2019APS..DFDC36006G/abstract)
+
+The study focuses on the electro-hydrodynamic (EHD) instability for flow between to parallel electrodes with unipolar charge injection with cross-flow. Lattice Boltzmann Method (LBM) with two-relaxation time (TRT) model is used to study flow pattern. Under strong charge injection and high electrical Rayleigh number, the system exhibits electroconvective vortices. Disturbed by different perturbation patterns, the flow patterns develop according to the most unstable modes. The unstable modes are obtained by dynamic mode decomposition (DMD) on the transient numerical solutions. Once the steady-state solution is obtained, Couette and Poiseuille cross-flow are applied. The flow patterns change according to the strength and direction of the cross-flow. When the cross-flow velocity is greater than a threshold value, in the 2D scenario, the vortices are suppressed, and in 3D the instability flow patterns would develop into streamwise rolling patterns. 
