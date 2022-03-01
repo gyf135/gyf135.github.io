@@ -10,6 +10,7 @@ location: "Houston TX, USA"
 
 Lecturing a graduate-level hydrodynamic stability course as a guest lecturer.
 
+<!--
 Heading 1
 ======
 
@@ -18,3 +19,5 @@ Heading 2
 
 Heading 3
 ======
+-->
+
