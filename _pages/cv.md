@@ -79,7 +79,7 @@ Teaching
 Service and leadership
 ======
 * Guest Editor for the Special Issue ‘Symmetrical Mathematical Computation in Fluid Dynamics’ for the open-access 
-journal Symmetry (ISSN 2073-8994). Website: [https://www.mdpi.com/journal/symmetry/special_issues/Symmetrical_Mathematical_Computation_Fluid_Dynamics]
+journal Symmetry (ISSN 2073-8994). Website: ['https://www.mdpi.com/journal/symmetry/special_issues/Symmetrical_Mathematical_Computation_Fluid_Dynamics']
 
 * Regular reviewer for several journals including Journal of Electrostatics, Physics of Plasmas,
 Physics of Fluids, Physical Review Fluids, Physical Review E, Theoretical and 
