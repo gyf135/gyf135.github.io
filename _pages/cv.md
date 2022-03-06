@@ -76,7 +76,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!--Service and leadership
+Service and leadership
 ======
-* Currently signed in to 43 different slack teams
--->
+* Guest Editor for the Special Issue ‘Symmetrical Mathematical Computation in Fluid Dynamics’ for the open-access 
+journal Symmetry (ISSN 2073-8994) Website: [https://www.mdpi.com/journal/symmetry/special_issues/Symmetrical_Mathematical_Computation_Fluid_Dynamics]
+
+* Regular reviewer for several journals including Journal of Electrostatics, Physics of Plasmas,
+Physics of Fluids, Physical Review Fluids, Physical Review E, Theoretical and 
+Computational Fluid Dynamics, Micromachines, Current Medical Imaging, Journal of 
+Process Mechanical Engineering, Mathematics, and Scientific Reports.
+
+
