@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical Engineering, University of Washington, 2019
-* M.S  in Applied Mathematics, University of Washington, 2017
-* M.S  in Mechanical Engineering, University of Washington, 2016
+* M.S.  in Applied Mathematics, University of Washington, 2017
+* M.S.  in Mechanical Engineering, University of Washington, 2016
 * B.S. in Thermal Energy and Power Engineering, Beijing Institute of Technology, 2014
 * Exchange student in Mechanical Engineering, University College Dublin, 2014
 * Exchange student in Mechanical Engineering, University of Technology, Sydney, 2012
