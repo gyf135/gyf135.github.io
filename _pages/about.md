@@ -12,7 +12,7 @@ In Suzzallo Library, University of Washington
 <br/><img src='/images/library.JPG'>
 
 
-This is Dr. Yifei Guan's home on the web!
+This is Yifei's home on the web!
 
 I am currently a postdoctoral associate at Rice University, working in the multidisciplinary area of deep learning and fluid turbulence modeling in the Environmental Fluid Dynamics Group under the supervision of Prof. Pedram Hassanzadeh. I obtained my Ph.D. in Mechanical Engineering from the University of Washington in June 2019. Over the past eight years, I have developed expertise in computational fluid dynamics, chaotic and turbulent multi-physical fluid flow modeling, high-performance computing, and deep-learning-assisted multiscale simulations. 
 
