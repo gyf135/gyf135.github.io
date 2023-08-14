@@ -1,9 +1,9 @@
 ---
 title: "Explaining the physics of transfer learning a data-driven subgrid-scale closure to a different turbulent flow"
 collection: publications
-permalink: /publication/2022-TL-Subel
+permalink: /publication/2023-TL-Subel
 excerpt: 'This paper is about finding spectral analysis of convolutional neural network applied to transfer learning.'
-date: 2022-06-01
+date: 2023-01-23
 venue: 'PNAS Nexus'
 paperurl: ' https://doi.org/10.1093/pnasnexus/pgad015'
 citation: 'Adam Subel, <strong>Yifei Guan</strong>, Ashesh Chattopadhyay, and Pedram Hassanzadeh. "Explaining the physics of transfer learning a data-driven subgrid-scale closure to a different turbulent flow." PNAS Nexus (2023).'
