@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Yifei Guan"
+  name             : "Yifei Guan, Ph.D."
   avatar           : "touxiang.jpg"
-  bio              : "Postdoctoral research associate at Rice University, specialized in fluid dynamics and machine learning. Email: Yifei.Guan@rice.edu"
-  location         : "Houston, Texas"
+  bio              : "Postdoctoral Scholar at the University of Chicago, specialized in fluid dynamics and machine learning. Email: yifeig@uchicago.edu"
+  location         : "Arlington, VA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=yifei+guan"
   googlescholar    : "https://scholar.google.com/citations?user=qAPhpSAAAAAJ&hl=en"
-  email            : "Yifei.Guan@rice.edu"
+  email            : "yifeig@uchicago.edu"
   researchgate     : "https://www.researchgate.net/profile/Yifei-Guan-2"
   uri              :
   bitbucket        :
