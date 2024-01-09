@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yifei Guan"
+title                    : "Yifei Guan, Ph.D."
 title_separator          : "-"
-name                     : &name "Dr. Yifei Guan"
-description              : &description "Postdoctoral research associate at Rice University"
+name                     : &name "Yifei Guan, Ph.D."
+description              : &description "Postdoctoral Scholar at the University of Chicago"
 url                      : https://gyf135.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gyf135/gyf135.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "Yifei.Guan@rice.edu"
+    email                : "yifeig@uchicago.edu"
   generatedFields:
     date:
       type               : "date"
