@@ -20,6 +20,10 @@ Education
 
 Work experience
 ======
+* From 2024: Postdoctoral Scholar
+  * University of Chicago
+  * Duties included: Develop explainable and physics-constrained ML models for climate resilience and environmental sustainability.
+  * Supervisor: Professor Pedram Hassanzadeh
 * From 2019: Postdoctoral research associate
   * Rice University
   * Duties included: Develop data-driven models for turbulence modeling.
