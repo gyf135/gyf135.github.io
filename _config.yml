@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yifei Guan, Ph.D."
 title_separator          : "-"
 name                     : &name "Yifei Guan, Ph.D."
-description              : &description "Postdoctoral Scholar at the University of Chicago"
+description              : &description "Assistant Professor at Union College"
 url                      : https://gyf135.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gyf135/gyf135.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "yifeig@uchicago.edu"
+    email                : "guany@union.edu"
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yifei Guan, Ph.D."
   avatar           : "touxiang.jpg"
-  bio              : "Postdoctoral Scholar at the University of Chicago, specialized in fluid dynamics and machine learning. Email: yifeig@uchicago.edu"
-  location         : "Arlington, VA"
+  bio              : "Assistant Professor at Union College, specialized in fluid dynamics and machine learning. Email: guany@union.edu"
+  location         : "Schenectady, NY"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=yifei+guan"
   googlescholar    : "https://scholar.google.com/citations?user=qAPhpSAAAAAJ&hl=en"
-  email            : "yifeig@uchicago.edu"
+  email            : "guany@union.edu"
   researchgate     : "https://www.researchgate.net/profile/Yifei-Guan-2"
   uri              :
   bitbucket        :
