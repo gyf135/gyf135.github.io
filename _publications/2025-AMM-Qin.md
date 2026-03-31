@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-AMM-Qin
 excerpt: 'This paper is about using lattice Boltzmann method with ghost fluid for irregular boundary conditions.'
 date: 2025-11-14
-venue: 'Journal of Advances in Modeling Earth Systems'
+venue: 'Applied Mathematical Modelling'
 paperurl: 'https://doi.org/10.1016/j.apm.2025.116546'
 citation: 'Yuyang Qin, <strong>Yifei Guan</strong>, and Jian Wu. "Application of the ghost fluid lattice Boltzmann method to injection-induced electroconvection in a dielectric liquid." Applied Mathematical Modelling (2025): 116546.'
 ---
