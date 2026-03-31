@@ -1,5 +1,5 @@
 ---
-title: 
+title: Numerical investigation of two-dimensional electro-thermo-hydrodynamic turbulence: Energy budget and scaling law analysis
 collection: publications
 permalink: /publication/2025-IJHMT-Guan
 excerpt: 'This paper is about analytical and numerical analysis of energy budget in ETHD.'
