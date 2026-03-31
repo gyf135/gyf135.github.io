@@ -1,7 +1,7 @@
 ---
 title: "Numerical analysis of single bubble dynamics and heat transfer in electric field-enhanced nucleate boiling"
 collection: publications
-permalink: /publication/2024-IJHFF-Wang.md
+permalink: /publication/2024-IJHFF-Wang
 excerpt: 'This paper is about numerical analysis of nucleate boiling.'
 date: 2024-05-29
 venue: 'International Journal of Heat and Fluid Flow'
