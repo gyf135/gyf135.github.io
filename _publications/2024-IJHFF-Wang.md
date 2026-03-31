@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-IJHFF-Wang.md
 excerpt: 'This paper is about numerical analysis of nucleate boiling.'
 date: 2024-05-29
-venue: 'Iternational Journal of Heat and Fluid Flow'
+venue: 'International Journal of Heat and Fluid Flow'
 paperurl: 'https://doi.org/10.1016/j.ijheatfluidflow.2024.109430'
 citation: 'Qi Wang, Alberto T. Pérez, <strong>Yifei Guan</strong>, and Jian Wu. "Numerical analysis of single bubble dynamics and heat transfer in electric field-enhanced nucleate boiling." International Journal of Heat and Fluid Flow 108 (2024): 109430.'
 ---
