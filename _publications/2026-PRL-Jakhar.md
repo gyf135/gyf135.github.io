@@ -1,9 +1,9 @@
 ---
 title: "Analytical and AI-Discovered Stable, Accurate, and Generalizable Subgrid-Scale Closure for Geophysical Turbulence"
 collection: publications
-permalink: /publication/2025-PRL-Jakhar
+permalink: /publication/2026-PRL-Jakhar
 excerpt: 'This paper is about an analytical and AI-driven discovery of SGS models for large-eddy simulations.'
-date: 2025-02-10
+date: 2026-02-10
 venue: 'Physical Review Letters'
 paperurl: 'https://doi.org/10.1103/v28b-5qmp'
 citation: 'Karan Jakhar, <strong>Yifei Guan</strong>, and Pedram Hassanzadeh. "Analytical and AI-Discovered Stable, Accurate, and Generalizable Subgrid-Scale Closure for Geophysical Turbulence." Physical Review Letters 136, no. 6 (2026): 064201.'
