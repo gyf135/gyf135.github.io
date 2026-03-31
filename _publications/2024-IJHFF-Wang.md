@@ -13,5 +13,4 @@ This study investigated the dynamic characteristics and heat transfer performanc
 
 [Download paper here](https://doi.org/10.1016/j.ijheatfluidflow.2024.109430)
 
-Recommended citation: 'Qi Wang, Alberto T. Pérez, <strong>Yifei Guan</strong>, and Jian Wu. "Numerical analysis of single bubble dynamics and heat transfer in electric field-enhanced nucleate boiling." International Journal of Heat and Fluid Flow 108 (2024): 109430.'
-
+Recommended citation: Qi Wang, Alberto T. Pérez, <strong>Yifei Guan</strong>, and Jian Wu. "Numerical analysis of single bubble dynamics and heat transfer in electric field-enhanced nucleate boiling." International Journal of Heat and Fluid Flow 108 (2024): 109430.
